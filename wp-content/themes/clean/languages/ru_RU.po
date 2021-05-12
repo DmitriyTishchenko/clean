@@ -1,0 +1,146 @@
+# Copyright (C) 2020 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: clean 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/_s\n"
+"POT-Creation-Date: 2021-05-12 22:27+0300\n"
+"PO-Revision-Date: 2021-05-12 22:37+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Domain: _s\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Эта страница не может быть найдена."
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Похоже, в этом месте ничего не было найдено. Может быть, попробуйте одну из "
+"ссылок ниже или поиск?"
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr "Наиболее часто используемые категории"
+
+#: 404.php:48
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте поискать в ежемесячных архивах. %1$s"
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Одна мысль на &ldquo;%1$s&rdquo;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: front-page.php:28 index.php:27
+msgid "Read more"
+msgstr "Читать далее"
+
+#: functions.php:56
+msgid "Primary"
+msgstr "Основное"
+
+#: functions.php:130
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+#: functions.php:132
+msgid "Add widgets here."
+msgstr "Добавить виджеты здесь."
+
+#: inc/customizer.php:37
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: inc/customizer.php:49
+msgid "Category on Home Page"
+msgstr "Категория на главной странице"
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Размещено в %1$s"
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Помечено %1$s"
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий <span class=\"screen-reader-text\"> на %s</span>"
+
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редактировать <span class=\"screen-reader-text\">%s</span>"
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: single.php:23
+msgid "Previous:"
+msgstr "Предыдущий:"
+
+#: single.php:24
+msgid "Next:"
+msgstr "Далее:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готовы опубликовать свой первый пост? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничего не соответствовало вашим поисковым запросам. Пожалуйста, "
+"попытайтесь снова с другими ключевыми словами."
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поиск поможет."
+
+#: template-parts/content-page.php:25 template-parts/content.php:53
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content.php:40
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продолжить чтение<span class=\"screen-reader-text\"> \"%s\"</span>"
